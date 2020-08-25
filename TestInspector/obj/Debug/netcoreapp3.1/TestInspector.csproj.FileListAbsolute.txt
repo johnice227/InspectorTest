@@ -1,0 +1,11 @@
+E:\Outros\Projects\Tutorials work\InspectorTest\TestInspectorRep\InspectorTest\TestInspector\bin\Debug\netcoreapp3.1\TestInspector.exe
+E:\Outros\Projects\Tutorials work\InspectorTest\TestInspectorRep\InspectorTest\TestInspector\bin\Debug\netcoreapp3.1\TestInspector.deps.json
+E:\Outros\Projects\Tutorials work\InspectorTest\TestInspectorRep\InspectorTest\TestInspector\bin\Debug\netcoreapp3.1\TestInspector.runtimeconfig.json
+E:\Outros\Projects\Tutorials work\InspectorTest\TestInspectorRep\InspectorTest\TestInspector\bin\Debug\netcoreapp3.1\TestInspector.runtimeconfig.dev.json
+E:\Outros\Projects\Tutorials work\InspectorTest\TestInspectorRep\InspectorTest\TestInspector\bin\Debug\netcoreapp3.1\TestInspector.dll
+E:\Outros\Projects\Tutorials work\InspectorTest\TestInspectorRep\InspectorTest\TestInspector\bin\Debug\netcoreapp3.1\TestInspector.pdb
+E:\Outros\Projects\Tutorials work\InspectorTest\TestInspectorRep\InspectorTest\TestInspector\obj\Debug\netcoreapp3.1\TestInspector.csprojAssemblyReference.cache
+E:\Outros\Projects\Tutorials work\InspectorTest\TestInspectorRep\InspectorTest\TestInspector\obj\Debug\netcoreapp3.1\TestInspector.AssemblyInfoInputs.cache
+E:\Outros\Projects\Tutorials work\InspectorTest\TestInspectorRep\InspectorTest\TestInspector\obj\Debug\netcoreapp3.1\TestInspector.AssemblyInfo.cs
+E:\Outros\Projects\Tutorials work\InspectorTest\TestInspectorRep\InspectorTest\TestInspector\obj\Debug\netcoreapp3.1\TestInspector.dll
+E:\Outros\Projects\Tutorials work\InspectorTest\TestInspectorRep\InspectorTest\TestInspector\obj\Debug\netcoreapp3.1\TestInspector.pdb
